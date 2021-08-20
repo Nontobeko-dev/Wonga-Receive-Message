@@ -1,2 +1,2 @@
 # WongaReceiveMessage
-This dotnet core console applications that receives the message to the service bus
+This dotnet core console applications that receives the message from the service bus

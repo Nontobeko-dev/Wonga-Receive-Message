@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9x5jD9xIeH9Dgz/Qq0+0AgvpaqUboSpKCcNPqYgYwAYrtvlLJ0l5NOr24tn6ToiVntqMhDx+jHqz2sH/sVnKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nonto\\Documents\\Wonga Core\\ReceiveMessage\\ReceiveMessage\\ReceiveMessage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nonto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\nonto\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\nonto\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\nonto\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\bin\Debug\netcoreapp3.1\ReceiveMessage.exe
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\bin\Debug\netcoreapp3.1\ReceiveMessage.deps.json
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\bin\Debug\netcoreapp3.1\ReceiveMessage.runtimeconfig.json
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\bin\Debug\netcoreapp3.1\ReceiveMessage.runtimeconfig.dev.json
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\bin\Debug\netcoreapp3.1\ReceiveMessage.dll
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\bin\Debug\netcoreapp3.1\ReceiveMessage.pdb
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\obj\Debug\netcoreapp3.1\ReceiveMessage.csproj.AssemblyReference.cache
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\obj\Debug\netcoreapp3.1\ReceiveMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\obj\Debug\netcoreapp3.1\ReceiveMessage.AssemblyInfoInputs.cache
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\obj\Debug\netcoreapp3.1\ReceiveMessage.AssemblyInfo.cs
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\obj\Debug\netcoreapp3.1\ReceiveMessage.csproj.CoreCompileInputs.cache
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\obj\Debug\netcoreapp3.1\ReceiveMessage.csproj.CopyComplete
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\obj\Debug\netcoreapp3.1\ReceiveMessage.dll
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\obj\Debug\netcoreapp3.1\ReceiveMessage.pdb
+C:\Users\nonto\Documents\Wonga Core\ReceiveMessage\ReceiveMessage\obj\Debug\netcoreapp3.1\ReceiveMessage.genruntimeconfig.cache
